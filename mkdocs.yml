@@ -1,13 +1,13 @@
 ---
 # Project information
-site_name: REPLACEME Wiki
-site_url: https://REPLACEME.rocky.page
+site_name: SIG/Kernel Wiki
+site_url: https://sig-kernel.rocky.page
 site_description: >-
-  REPLACEME
+  SIG/Kernel Wiki
 
 # Repository
-repo_url: https://git.resf.org/REPLACEME/wiki
-repo_name: REPLACEME/wiki
+repo_url: https://git.resf.org/sig_kernel/wiki
+repo_name: sig_kernel/wiki
 edit_uri: _edit/main/docs/
 
 # Copyright
