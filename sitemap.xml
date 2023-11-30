@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sig-kernel.rocky.page/</loc>
-         <lastmod>2023-10-10</lastmod>
+         <lastmod>2023-11-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://sig-kernel.rocky.page/meetings/2023-11-30/</loc>
+         <lastmod>2023-11-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
