@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sig-kernel.rocky.page/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sig-kernel.rocky.page/meetings/2023-11-30/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sig-kernel.rocky.page/meetings/2024-01-11/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://sig-kernel.rocky.page/meetings/2024-01-25/</loc>
+         <lastmod>2024-02-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
